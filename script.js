@@ -3,19 +3,19 @@ var data = [
   
   
   { id: '', type: 'quiz', color: '#1b87e6', text: '№ 1', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '№ 2', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 3', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '№ 4', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 5', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '№ 6', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '#7', src: 'img/nordic-1.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '№ 2', src: 'img/nordic-2.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 3', src: 'img/gusto-3.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '№ 4', src: 'img/nordic-4.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 5', src: 'img/nordic-5.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '№ 6', src: 'img/nestle-6.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '#7', src: 'img/gusto-7.jpg' },
   { id: '', type: 'quiz', color: '#1b3380', text: '№ 1', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 2', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '№ 3', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 4', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '№ 5', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 6', src: 'img/nordic-1.jpg' },
-  { id: '', type: 'quiz', color: '#1b3380', text: '#7', src: 'img/nordic-1.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 2', src: 'img/nordic-2.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '№ 3', src: 'img/gusto-3.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 4', src: 'img/nordic-4.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '№ 5', src: 'img/nordic-5.jpg' },
+  { id: '', type: 'quiz', color: '#1b87e6', text: '№ 6', src: 'img/nestle-6.jpg' },
+  { id: '', type: 'quiz', color: '#1b3380', text: '#7', src: 'img/gusto-7.jpg' },
 ];
 
 var RouletteWheel = function(el, items){
