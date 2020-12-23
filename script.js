@@ -191,7 +191,7 @@ $(window).ready(function(){
   
   spinner.on('spin:start', function(r){ 
     console.log('spin start!');
-    $(".result").attr("src", '');
+    $(".result").attr("src", 'img/box.png');
    });
   spinner.on('spin:end', function(r){ 
 
